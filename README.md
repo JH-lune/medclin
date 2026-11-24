@@ -1,10 +1,10 @@
 Medclin — Sistema de Agendamento e Gestão de Consultas Médicas
 
-Universidade Federal do Amazonas (UFAM)
-Instituto de Ciências Exatas e Tecnologia (ICET)
-Curso: Engenharia de Software
-Disciplina: Engenharia de Requisitos
-Ano: 2026
+**Universidade Federal do Amazonas (UFAM)**
+**Instituto de Ciências Exatas e Tecnologia (ICET)**
+**Curso: Engenharia de Software**
+**Disciplina: Engenharia de Requisitos**
+**Ano: 2026**
 
 Integrantes
 
