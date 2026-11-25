@@ -120,6 +120,8 @@ Política de estado das consultas: uma consulta inicia como AGENDADA e poderá p
 
 Observação: as regras de negócio são propostas iniciais e deverão ser validadas com a clínica.
 
+# 3. Diagramas UML
+
 ### 3.1. Diagramas de Casos de Uso
 
 **Figura 1 – Acesso e agendamento**
