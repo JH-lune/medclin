@@ -117,36 +117,36 @@ Observação: as regras de negócio são propostas iniciais e deverão ser valid
 
 **Figura 1 – Acesso e agendamento**
 
-![Diagrama de casos de uso: acesso e agendamento](docs/diagramas/caso-uso-01-acesso-agendamento.png)
+![Diagrama de casos de uso: acesso e agendamento](docs/diagramas/caso-uso-01-acesso-agendamento.png.png)
 
 **Figura 2 – Operação e gestão**
 
-![Diagrama de casos de uso: operação e gestão](docs/diagramas/caso-uso-02-operacao-gestao.png)
+![Diagrama de casos de uso: operação e gestão](docs/diagramas/caso-uso-02-operacao-gestao.png.png)
 
 **Figura 3 – Conta e comunicação**
 
-![Diagrama de casos de uso: conta e comunicação](docs/diagramas/caso-uso-03-conta-comunicacao.png)
+![Diagrama de casos de uso: conta e comunicação](docs/diagramas/caso-uso-03-conta-comunicacao.png.png)
 
 ### 3.2. Diagramas de Sequência
 
 **Figura 4 – Agendamento de consulta (UC04)**
 
-![Diagrama de sequência: agendamento](docs/diagramas/sequencia-01-agendamento.png)
+![Diagrama de sequência: agendamento](docs/diagramas/sequencia-01-agendamento.png.png)
 
 **Figura 5 – Remarcação de consulta (UC05)**
 
-![Diagrama de sequência: remarcação](docs/diagramas/sequencia-02-remarcacao.png)
+![Diagrama de sequência: remarcação](docs/diagramas/sequencia-02-remarcacao.png.png)
 
 **Figura 6 – Registro de desfecho (UC09)**
 
-![Diagrama de sequência: registro de desfecho](docs/diagramas/sequencia-03-registro-desfecho.png)
+![Diagrama de sequência: registro de desfecho](docs/diagramas/sequencia-03-registro-desfecho.png.png)
 
 ### 3.3. Diagramas de Atividades
 
 **Figura 7 – Agendar consulta**
 
-![Diagrama de atividades: agendar consulta](docs/diagramas/atividade-01-agendar-consulta.png)
+![Diagrama de atividades: agendar consulta](docs/diagramas/atividade-01-agendar-consulta.png.png)
 
 **Figura 8 – Remarcar consulta**
 
-![Diagrama de atividades: remarcar consulta](docs/diagramas/atividade-02-remarcar-consulta.png)
+![Diagrama de atividades: remarcar consulta](docs/diagramas/atividade-02-remarcar-consulta.png.png)
