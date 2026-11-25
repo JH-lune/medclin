@@ -1,9 +1,13 @@
 Medclin — Sistema de Agendamento e Gestão de Consultas Médicas
 
 **Universidade Federal do Amazonas (UFAM)**
+
 **Instituto de Ciências Exatas e Tecnologia (ICET)**
+
 **Curso: Engenharia de Software**
+
 **Disciplina: Engenharia de Requisitos**
+
 **Ano: 2026**
 
 Integrantes
@@ -96,6 +100,9 @@ As regras de negócio definem as condições e restrições que orientam o funci
 
 | ID   | Regra de Negócio                                                                                                                |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------- |
+| RN01 | O e-mail identifica uma única conta de usuário ativa; duplicidades devem ser recusadas.                                         |
+| RN02 | Paciente só pode consultar e alterar compromissos próprios; operações da recepção ocorrem mediante perfil autorizado.           |
+| RN03 | Agendamentos exigem médico ativo, slot ofertado e data/hora futuras.                                                            |
 | RN04 | Não pode haver duas consultas ativas no mesmo horário do mesmo médico nem consultas simultâneas para o mesmo paciente.          |
 | RN05 | A duração sugerida do slot é de 30 minutos, passível de configuração por profissional.                                          |
 | RN06 | Pacientes podem reservar consultas dentro de uma janela móvel proposta de 60 dias.                                              |
